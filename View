@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>Anas,My First JavaScript</h2>
+<h2>Anas,First JavaScript</h2>
 
 <button type="button"
 onclick="document.getElementById('demo').innerHTML = Date()">
